@@ -2,7 +2,7 @@ name: Auto-Sync and Notify
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Run every 6 hours
+    - cron: '0 1 * * *' # Run at 01:00 UTC (09:00 Beijing Time)
   workflow_dispatch: # Allow manual trigger
 
 jobs:
@@ -82,3 +82,5 @@ jobs:
              # Still push the sync to keep repo up to date
              git push origin master
           fi
+
+
