@@ -33,7 +33,7 @@ def get_tenant_access_token(app_id, app_secret):
 def upload_image(image_url, access_token):
     try:
         # Download image
-        img_resp = requests.get(image_url) # Not streaming
+        img_resp = requests.get(image_url)
         img_resp.raise_for_status()
         content = img_resp.content
         
@@ -58,7 +58,6 @@ def upload_image(image_url, access_token):
         }
         
         response = requests.post(url, headers=headers, data=multi_encoder)
-        # response.raise_for_status() # Don't raise yet, check response first
         
         if response.status_code == 200:
             result = response.json()
@@ -75,18 +74,13 @@ def upload_image(image_url, access_token):
         return None
 
 def parse_markdown(content):
-    """
-    Parses the markdown content into a structured format.
-    Returns a list of categories, where each category has a title and a list of items.
-    Structure: [{'title': 'C 项目', 'items': [{'type': 'project', 'name': '...', 'url': '...', 'desc': '...'}, {'type': 'image', 'url': '...'}]}]
-    """
     lines = content.split('\n')
     categories = []
     current_category = None
     
     # Regex for project items
     item_pattern = re.compile(r'^\d+、\[(.*?)\]\((.*?)\)(?:：|:)(.*)')
-    # Regex for images: <img src='url'> or ![](url)
+    # Regex for images
     img_html_pattern = re.compile(r"<img[^>]*src=['\"](.*?)['\"][^>]*>")
     img_md_pattern = re.compile(r"!\[.*?\]\((.*?)\)")
     
@@ -121,7 +115,6 @@ def parse_markdown(content):
             
             if img_match:
                 img_url = img_match.group(1)
-                # Filter out small icons or badges if possible, but for now take all
                 current_category['items'].append({
                     'type': 'image',
                     'url': img_url
@@ -132,52 +125,26 @@ def parse_markdown(content):
         
     return categories
 
-def send_feishu_msg(title, content_lines):
+def send_feishu_card(title, elements):
     webhook_url = os.environ.get('FEISHU_WEBHOOK_URL')
     if not webhook_url:
         print("Error: FEISHU_WEBHOOK_URL environment variable not set.")
         return False
 
-    post_content = []
-    
-    for line_data in content_lines:
-        if line_data['type'] == 'text':
-             post_content.append([{
-                 'tag': 'text',
-                 'text': line_data['text']
-             }])
-        elif line_data['type'] == 'link_item':
-            post_content.append([
-                {
-                    'tag': 'text',
-                    'text': "• "
-                },
-                {
-                    'tag': 'a',
-                    'text': line_data['name'],
-                    'href': line_data['url']
-                },
-                {
-                    'tag': 'text',
-                    'text': "：{}".format(line_data['desc'])
-                }
-            ])
-        elif line_data['type'] == 'image':
-             post_content.append([{
-                 'tag': 'img',
-                 'image_key': line_data['image_key']
-             }])
+    card = {
+        "header": {
+            "template": "blue",
+            "title": {
+                "tag": "plain_text",
+                "content": title
+            }
+        },
+        "elements": elements
+    }
 
     data = {
-        "msg_type": "post",
-        "content": {
-            "post": {
-                "zh_cn": {
-                    "title": title,
-                    "content": post_content
-                }
-            }
-        }
+        "msg_type": "interactive",
+        "card": card
     }
 
     try:
@@ -185,10 +152,10 @@ def send_feishu_msg(title, content_lines):
         response.raise_for_status()
         result = response.json()
         if result.get("code") == 0:
-            print("Successfully sent chunk: {}".format(title))
+            print("Successfully sent card: {}".format(title))
             return True
         else:
-            print("Failed to send chunk {}: {}".format(title, result))
+            print("Failed to send card {}: {}".format(title, result))
             return False
     except Exception as e:
         print("Error sending request for {}: {}".format(title, e))
@@ -214,10 +181,6 @@ def main():
         access_token = get_tenant_access_token(app_id, app_secret)
         if access_token:
             print("Access token obtained.")
-        else:
-            print("Failed to get access token, images will be skipped.")
-    else:
-        print("FEISHU_APP_ID or FEISHU_APP_SECRET not set. Images will be skipped.")
 
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
@@ -237,34 +200,75 @@ def main():
         print("No categories found to notify.")
         return
 
-    # Intro
+    # 1. Send Intro Card
     intro_title = "HelloGitHub 第 {} 期发布".format(issue_num)
-    intro_lines = [{'type': 'text', 'text': "本期内容如下："}]
-    send_feishu_msg(intro_title, intro_lines)
+    intro_elements = []
     
+    # Try to find a cover image in the first category (usually "Preface" or "Other") or use a default one ?
+    # Let's verify if there is any image in proper categories, or check if 'HelloGitHub' logo is available.
+    # For now, just a text summary.
+    intro_elements.append({
+        "tag": "div",
+        "text": {
+            "tag": "lark_md",
+            "content": "**本期内容如下：**"
+        }
+    })
+    
+    # Add a main button to read online
+    online_url = "https://hellogithub.com/periodical/volume/{}/".format(issue_num)
+    intro_elements.append({
+        "tag": "action",
+        "actions": [{
+            "tag": "button",
+            "text": {
+                "tag": "plain_text",
+                "content": "在线阅读全文"
+            },
+            "type": "primary",
+            "url": online_url
+        }]
+    })
+
+    send_feishu_card(intro_title, intro_elements)
+    
+    # 2. Send Category Cards
     for cat in categories:
         cat_title = "HG Vol.{} - {}".format(issue_num, cat['title'])
-        cat_lines = []
+        cat_elements = []
+        
         for item in cat['items']:
             if item['type'] == 'project':
-                cat_lines.append({
-                    'type': 'link_item',
-                    'name': item['name'],
-                    'url': item['url'],
-                    'desc': item['desc']
+                # Format: **[Name](Url)** \n Description
+                md_text = "**[{}]({})**\n{}".format(item['name'], item['url'], item['desc'])
+                cat_elements.append({
+                    "tag": "div",
+                    "text": {
+                        "tag": "lark_md",
+                        "content": md_text
+                    }
                 })
+                # Add a divider after each project for cleanliness? Or maybe just spacing.
+                # A divider might be too much if there are many projects. Let's stick to spacing (div block implies new line).
+                
             elif item['type'] == 'image' and access_token:
-                # Upload image
+                # Upload and display image
                 print("Uploading image: {}".format(item['url']))
                 image_key = upload_image(item['url'], access_token)
                 if image_key:
-                    cat_lines.append({
-                        'type': 'image',
-                        'image_key': image_key
+                    cat_elements.append({
+                        "tag": "img",
+                        "img_key": image_key,
+                        "alt": {
+                            "tag": "plain_text",
+                            "content": "Project Image"
+                        }
                     })
         
-        if cat_lines:
-            send_feishu_msg(cat_title, cat_lines)
+        if cat_elements:
+            # If too many elements, Feishu might complain (50 element limit?)
+            # Usually HG categories are okay size.
+            send_feishu_card(cat_title, cat_elements)
             time.sleep(1)
 
 if __name__ == '__main__':
