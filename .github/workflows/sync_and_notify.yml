@@ -23,7 +23,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests requests-toolbelt
 
       - name: Configure Git
         run: |
@@ -34,6 +34,8 @@ jobs:
         env:
           UPSTREAM_URL: "https://github.com/521xueweihan/HelloGitHub.git"
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
         run: |
           # Add upstream remote
           git remote add upstream $UPSTREAM_URL
