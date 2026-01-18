@@ -89,6 +89,13 @@ def parse_markdown(content):
         if not line:
             continue
             
+        # Stop parsing if we hit a Level 2 header (e.g. ## 赞助, ## 声明) after we have started collecting sections
+        if line.startswith('## '):
+             if current_category:
+                 categories.append(current_category)
+                 current_category = None
+             continue
+            
         if line.startswith('### '):
             if current_category:
                 categories.append(current_category)
@@ -115,6 +122,11 @@ def parse_markdown(content):
             
             if img_match:
                 img_url = img_match.group(1)
+                
+                # Filter out unwanted images (logos, license buttons, etc.)
+                if 'img_logo' in img_url or 'licensebuttons.net' in img_url:
+                    continue
+                    
                 current_category['items'].append({
                     'type': 'image',
                     'url': img_url
