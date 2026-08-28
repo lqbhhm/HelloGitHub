@@ -165,7 +165,7 @@ XUpdate.newBuild(getActivity())
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/3834332.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[GeneralNewsExtractor](https://hellogithub.com/periodical/statistics/click?target=https://github.com/GeneralNewsExtractor/GeneralNewsExtractor)：基于《基于文本及符号密度的网页正文提取方法》论文用 Python 实现的正文抽取器，可以用来提取 HTML 中正文的内容、作者、标题。之前我看到这篇论文也想实现该抽取工具，但是我因为懒癌晚期躺下了，感谢[kingname](https://github.com/kingname) ‘带趟’ ✌️
+17、[GeneralNewsExtractor](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kingname/GeneralNewsExtractor)：基于《基于文本及符号密度的网页正文提取方法》论文用 Python 实现的正文抽取器，可以用来提取 HTML 中正文的内容、作者、标题。之前我看到这篇论文也想实现该抽取工具，但是我因为懒癌晚期躺下了，感谢[kingname](https://github.com/kingname) ‘带趟’ ✌️
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/207119273.png' style="max-width:80%; max-height=80%;"></img></p>

@@ -91,7 +91,7 @@ qprogress.finish()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/46964895.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[wx-promise-pro](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zisheng-ai/wx-promise-pro)：支持 finnaly、typescript 的微信小程序异步解决方案。特性：
+11、[wx-promise-pro](https://hellogithub.com/periodical/statistics/click?target=https://github.com/youngjunning/wx-promise-pro)：支持 finnaly、typescript 的微信小程序异步解决方案。特性：
 - 方便集成：一处引用，处处使用
 - 把微信小程序所有异步 API promise 化并挂在到 wx.pro 对象下
 - 支持 ES2018 finally 特性

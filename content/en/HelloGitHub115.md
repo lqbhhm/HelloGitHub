@@ -250,7 +250,7 @@ response = chat.ask("How much storage does LEANN save?", top_k=1)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/115/902164245.png' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[Berkeley-Humanoid-Lite](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/HybridRobotics/Berkeley-Humanoid-Lite)：Open-source Humanoid Robot.This project is open-sourced by the Berkeley Hybrid Robotics team. It aims to provide low-cost, modular and customizable humanoid robot solutions. The robot uses 3D printing and common components, with a total cost of less than $5000. It is suitable for multiple fields such as robot research, algorithm development and teaching experiments.
+36、[berkeley-humanoid-lite](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/HybridRobotics/berkeley-humanoid-lite)：Open-source Humanoid Robot.This project is open-sourced by the Berkeley Hybrid Robotics team. It aims to provide low-cost, modular and customizable humanoid robot solutions. The robot uses 3D printing and common components, with a total cost of less than $5000. It is suitable for multiple fields such as robot research, algorithm development and teaching experiments.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/115/950286225.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -257,7 +257,7 @@ response = chat.ask("How much storage does LEANN save?", top_k=1)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/115/902164245.png' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[Berkeley-Humanoid-Lite](https://hellogithub.com/periodical/statistics/click?target=https://github.com/HybridRobotics/Berkeley-Humanoid-Lite)：开源的人形机器人。该项目是由伯克利 Hybrid Robotics 团队开源，旨在提供低成本、模块化、可定制的人形机器人解决方案。机器人采用 3D 打印和常见组件，整体成本在 5000 美元以内，适用于机器人科研、算法开发和教学实验等多个领域。
+36、[berkeley-humanoid-lite](https://hellogithub.com/periodical/statistics/click?target=https://github.com/HybridRobotics/berkeley-humanoid-lite)：开源的人形机器人。该项目是由伯克利 Hybrid Robotics 团队开源，旨在提供低成本、模块化、可定制的人形机器人解决方案。机器人采用 3D 打印和常见组件，整体成本在 5000 美元以内，适用于机器人科研、算法开发和教学实验等多个领域。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/115/950286225.png' style="max-width:80%; max-height=80%;"></img></p>
 

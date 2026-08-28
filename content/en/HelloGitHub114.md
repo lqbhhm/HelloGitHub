@@ -280,7 +280,7 @@ whisperlivekit-server --host 0.0.0.0 --port 80 --model medium --diarization --la
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/114/465844859.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[winboat](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/TibixDev/winboat)：Easily Run Windows Applications on Linux Systems.This is a tool that allows you to run Windows applications on Linux without complicated configurations. Through a graphical wizard, it automatically completes image pulling, container creation and RDP configuration. There is no need to manually enter commands throughout the process, and Windows applications can be seamlessly presented on the Linux desktop in independent windows.Shared by [@moyelx](https://hellogithub.com/en/user/e8vnBGS9XmjYLho)
+38、[winboat](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/winboat-org/winboat)：Easily Run Windows Applications on Linux Systems.This is a tool that allows you to run Windows applications on Linux without complicated configurations. Through a graphical wizard, it automatically completes image pulling, container creation and RDP configuration. There is no need to manually enter commands throughout the process, and Windows applications can be seamlessly presented on the Linux desktop in independent windows.Shared by [@moyelx](https://hellogithub.com/en/user/e8vnBGS9XmjYLho)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/114/960420129.png' style="max-width:80%; max-height=80%;"></img></p>
 

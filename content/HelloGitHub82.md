@@ -86,7 +86,7 @@ res->body;
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/32551735.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go 项目
-11、[d2](https://hellogithub.com/periodical/statistics/click?target=https://github.com/terrastruct/d2)：一种可将文本转换为图表的脚本语言。该项目是一种图表脚本语言，可将文本转换为图表。你只需描述想要的图表，它就会生成对应的图像。
+11、[d2](https://hellogithub.com/periodical/statistics/click?target=https://github.com/d2lang/d2)：一种可将文本转换为图表的脚本语言。该项目是一种图表脚本语言，可将文本转换为图表。你只需描述想要的图表，它就会生成对应的图像。
 ```shell
 echo 'x -> y' > input.d2
 d2 -w input.d2 out.svg

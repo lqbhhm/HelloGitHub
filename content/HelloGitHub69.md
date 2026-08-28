@@ -155,7 +155,7 @@ ReactDOM.render(<App />, document.getElementById('app'));
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/403496146.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-21、[prisma](https://hellogithub.com/periodical/statistics/click?target=https://github.com/prisma/prisma)：适用于 Node.js 和 TypeScript 的 ORM。支持主流数据库可用于开发 REST API、GraphQL API、gRPC API 等任何需要连接数据库的程序，项目还包括了数据迁移工具和管理数据的 GUI 工具
+21、[orm](https://hellogithub.com/periodical/statistics/click?target=https://github.com/prisma/orm)：适用于 Node.js 和 TypeScript 的 ORM。支持主流数据库可用于开发 REST API、GraphQL API、gRPC API 等任何需要连接数据库的程序，项目还包括了数据迁移工具和管理数据的 GUI 工具
 ```javascript
 import { PrismaClient } from '@prisma/client'
 

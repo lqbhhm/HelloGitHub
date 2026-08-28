@@ -92,7 +92,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/113/331293626.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Kotlin
-20、[MusicRecognizer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/aleksey-saenko/MusicRecognizer)：Open-source Android Music Recognition App.This is an Android music recognition app that realizes song recognition function by calling AudD and ACRCloud services. Users can easily identify songs, obtain detailed information. All recognition records are automatically saved and can be used to build and manage personal music libraries.Shared by [@ewiro](https://hellogithub.com/en/user/iItGgWoJjnLsr0Y)
+20、[Audile](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/AudileTeam/Audile)：Open-source Android Music Recognition App.This is an Android music recognition app that realizes song recognition function by calling AudD and ACRCloud services. Users can easily identify songs, obtain detailed information. All recognition records are automatically saved and can be used to build and manage personal music libraries.Shared by [@ewiro](https://hellogithub.com/en/user/iItGgWoJjnLsr0Y)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/113/596072364.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -179,7 +179,7 @@ ui.run()
 ### Other
 35、[asm-lessons](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/FFmpeg/asm-lessons)：FFmpeg Community Audio and Video Assembly Combat Tutorial.This project is open-source assembly language learning materials and code examples from the FFmpeg community. It explains the practical application of assembly in audio and video processing in combination with FFmpeg, helping learners deeply understand the underlying architecture and performance optimization techniques of FFmpeg.
 
-36、[FluentRead](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Bistutu/FluentRead)：Open-source Browser Translation Plugin.This is an immersive open-source browser translation plugin that supports over 20 traditional and AI translation engines, along with features like bilingual alignment and on-the-fly word translation, helping users achieve an immersive multi-language web reading experience. It is suitable for scenarios such as foreign language learning, international website browsing, and document translation.Shared by [@孤胆枪手](https://hellogithub.com/en/user/i1wAIyo6P3NXkxm)
+36、[FluentRead](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/FluentRead/FluentRead)：Open-source Browser Translation Plugin.This is an immersive open-source browser translation plugin that supports over 20 traditional and AI translation engines, along with features like bilingual alignment and on-the-fly word translation, helping users achieve an immersive multi-language web reading experience. It is suitable for scenarios such as foreign language learning, international website browsing, and document translation.Shared by [@孤胆枪手](https://hellogithub.com/en/user/i1wAIyo6P3NXkxm)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/113/734569425.png' style="max-width:80%; max-height=80%;"></img></p>
 

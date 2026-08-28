@@ -175,7 +175,7 @@ nes.frame();
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/100590072.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python
-21、[cudf](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/rapidsai/cudf)：Database Processing Python Library Supporting GPU. It is equivalent to pandas with GPU support, which significantly boosts the speed of data processing. It provides an API similar to pandas, supporting operations on data such as loading, merging, aggregating, filtering, and more.
+21、[cudf](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/NVIDIA/cudf)：Database Processing Python Library Supporting GPU. It is equivalent to pandas with GPU support, which significantly boosts the speed of data processing. It provides an API similar to pandas, supporting operations on data such as loading, merging, aggregating, filtering, and more.
 ```python
 import cudf, requests
 from io import StringIO

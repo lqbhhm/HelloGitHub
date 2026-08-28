@@ -99,7 +99,7 @@
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/113/331293626.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Kotlin 项目
-20、[MusicRecognizer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aleksey-saenko/MusicRecognizer)：开源的 Android 音乐识别应用。这是一款 Andriod 音乐识别应用，通过调用 AudD 和 ACRCloud 服务实现歌曲识别功能。用户可以轻松识别歌曲、获取详细信息，所有识别记录自动保存，可用于构建和管理个人音乐库。来自 [@ewiro](https://hellogithub.com/user/iItGgWoJjnLsr0Y) 的分享
+20、[Audile](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AudileTeam/Audile)：开源的 Android 音乐识别应用。这是一款 Andriod 音乐识别应用，通过调用 AudD 和 ACRCloud 服务实现歌曲识别功能。用户可以轻松识别歌曲、获取详细信息，所有识别记录自动保存，可用于构建和管理个人音乐库。来自 [@ewiro](https://hellogithub.com/user/iItGgWoJjnLsr0Y) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/113/596072364.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -186,7 +186,7 @@ ui.run()
 ### 其它
 35、[asm-lessons](https://hellogithub.com/periodical/statistics/click?target=https://github.com/FFmpeg/asm-lessons)：FFmpeg 社区音视频汇编实战教程。该项目是由 FFmpeg 社区开源的汇编语言学习资料和代码示例，结合 FFmpeg 讲解汇编在音视频处理中的实际应用，帮助学习者深入理解 FFmpeg 的底层架构与性能优化技巧。
 
-36、[FluentRead](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Bistutu/FluentRead)：开源的浏览器翻译插件。这是一款沉浸式开源浏览器翻译插件，支持 20 多种传统和 AI 翻译引擎，以及双语对照、划词翻译等功能，帮助用户实现多语言网页沉浸式阅读体验。适用于外语学习、国际网站浏览和文档翻译等场景。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
+36、[FluentRead](https://hellogithub.com/periodical/statistics/click?target=https://github.com/FluentRead/FluentRead)：开源的浏览器翻译插件。这是一款沉浸式开源浏览器翻译插件，支持 20 多种传统和 AI 翻译引擎，以及双语对照、划词翻译等功能，帮助用户实现多语言网页沉浸式阅读体验。适用于外语学习、国际网站浏览和文档翻译等场景。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/113/734569425.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -268,15 +268,15 @@ static void take_gil(PyThreadState *tstate)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/146759572.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[lifeRestart](https://hellogithub.com/periodical/statistics/click?target=https://github.com/VickScarlet/lifeRestart)：在线文字游戏《人生重开模拟器》。纯文字游戏只需开局选天赋分配初始属性，后面就是看岁月如白驹过隙，转眼就过完了这一生，不满意的话可以轻松重开新的人生。游戏凭借诙谐幽默的文案和出乎意料的结尾，广受好评。[在线试玩](https://liferestart.syaro.io/view/)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/396193750.png' style="max-width:80%; max-height=80%;"></img></p>
-
-35、[QWidgetDemo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/feiyangqingyun/QWidgetDemo)：Qt 编写的示例集合。每个示例都可独立运行、代码简洁易懂，适合初学者学习
+34、[QWidgetDemo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/feiyangqingyun/QWidgetDemo)：Qt 编写的示例集合。每个示例都可独立运行、代码简洁易懂，适合初学者学习
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/212790745.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+35、[remake](https://hellogithub.com/periodical/statistics/click?target=https://github.com/VickScarlet/remake)：在线文字游戏《人生重开模拟器》。纯文字游戏只需开局选天赋分配初始属性，后面就是看岁月如白驹过隙，转眼就过完了这一生，不满意的话可以轻松重开新的人生。游戏凭借诙谐幽默的文案和出乎意料的结尾，广受好评。[在线试玩](https://liferestart.syaro.io/view/)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/396193750.png' style="max-width:80%; max-height=80%;"></img></p>
 
 36、[xemu](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xemu-project/xemu)：免费开源的 Xbox 模拟器，支持 Windows、Linux、macOS 系统
 

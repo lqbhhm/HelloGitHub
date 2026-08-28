@@ -182,7 +182,7 @@ nes.frame();
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/100590072.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
-21、[cudf](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rapidsai/cudf)：支持 GPU 的数据库处理 Python 库。它相当于支持 GPU 的 pandas，处理数据的速度直接起飞。提供了类似 pandas 的 API，支持加载、合并、聚合、过滤等方式操作数据。
+21、[cudf](https://hellogithub.com/periodical/statistics/click?target=https://github.com/NVIDIA/cudf)：支持 GPU 的数据库处理 Python 库。它相当于支持 GPU 的 pandas，处理数据的速度直接起飞。提供了类似 pandas 的 API，支持加载、合并、聚合、过滤等方式操作数据。
 ```python
 import cudf, requests
 from io import StringIO

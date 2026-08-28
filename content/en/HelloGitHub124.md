@@ -103,7 +103,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/124/708266011.png' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[herdr](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ogulcancelik/herdr)：Terminal Tool for Managing Multiple AI Coding Assistants.This project is a Rust-written terminal multiplexer specifically designed for operating multiple AI coding assistants simultaneously. It enables you to view the terminal screen of each assistant within one screen, easily seeing who is running, who is stuck, and who has completed. It supports resuming after disconnection and allows reconnection from other terminals or SSH at any time, and is also compatible with tmux-style shortcuts.Shared by [@JRZYgit](https://hellogithub.com/en/user/0Aj4ipeQrDYuHBX)
+22、[herdr](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/herdrdev/herdr)：Terminal Tool for Managing Multiple AI Coding Assistants.This project is a Rust-written terminal multiplexer specifically designed for operating multiple AI coding assistants simultaneously. It enables you to view the terminal screen of each assistant within one screen, easily seeing who is running, who is stuck, and who has completed. It supports resuming after disconnection and allows reconnection from other terminals or SSH at any time, and is also compatible with tmux-style shortcuts.Shared by [@JRZYgit](https://hellogithub.com/en/user/0Aj4ipeQrDYuHBX)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/124/1193909050.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -177,7 +177,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub123.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | 『Next』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub123.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub125.md">『Next』</a>
 </p>
 
 ---

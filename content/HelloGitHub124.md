@@ -110,7 +110,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/124/708266011.png' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[herdr](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ogulcancelik/herdr)：管理多个 AI 编程助手的终端工具。该项目是用 Rust 编写的终端多路复用工具，专为同时操作多个 AI 编程助手而设计。它能在一屏内查看每个助手的终端画面，一眼看出谁在运行、谁卡住、谁已完成。支持断开后继续运行、随时从其他终端或 SSH 重新接入，同时兼容 tmux 风格的快捷键。来自 [@JRZYgit](https://hellogithub.com/user/0Aj4ipeQrDYuHBX) 的分享
+22、[herdr](https://hellogithub.com/periodical/statistics/click?target=https://github.com/herdrdev/herdr)：管理多个 AI 编程助手的终端工具。该项目是用 Rust 编写的终端多路复用工具，专为同时操作多个 AI 编程助手而设计。它能在一屏内查看每个助手的终端画面，一眼看出谁在运行、谁卡住、谁已完成。支持断开后继续运行、随时从其他终端或 SSH 重新接入，同时兼容 tmux 风格的快捷键。来自 [@JRZYgit](https://hellogithub.com/user/0Aj4ipeQrDYuHBX) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/124/1193909050.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -184,7 +184,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub123.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub123.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub125.md">『下一期』</a>
 </p>
 
 ---

@@ -199,7 +199,7 @@ umap.plot(mapper, labels=digits.target)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/206874323.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[rust-by-practice](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sunface/rust-by-practice)：Rust 语言实战。该项目提供了大量的 Rust 实战练习，来帮助 Rust 新手学习和上手 Rust 语言。这里除了有大量的练习题和答案，还支持在线编辑和运行 Rust 代码。
+29、[rust-by-practice](https://hellogithub.com/periodical/statistics/click?target=https://github.com/origin-brain/rust-by-practice)：Rust 语言实战。该项目提供了大量的 Rust 实战练习，来帮助 Rust 新手学习和上手 Rust 语言。这里除了有大量的练习题和答案，还支持在线编辑和运行 Rust 代码。
 
 ### Swift 项目
 30、[MacSymbolicator](https://hellogithub.com/periodical/statistics/click?target=https://github.com/inket/MacSymbolicator)：符号化 macOS/iOS 崩溃报告的工具。这是一个简单的 Mac 应用，它能够将 macOS/iOS 崩溃报告中的十六进制地址，转换为源码中的函数和行号，帮助开发者分析应用的崩溃原因，支持 crash 和 ips 格式的崩溃报告。

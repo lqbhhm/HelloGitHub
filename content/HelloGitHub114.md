@@ -287,7 +287,7 @@ whisperlivekit-server --host 0.0.0.0 --port 80 --model medium --diarization --la
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/114/465844859.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[winboat](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TibixDev/winboat)：在 Linux 系统上轻松运行 Windows 应用。这是一款无需复杂配置即可在 Linux 上运行 Windows 应用的工具。通过图形化向导自动完成镜像拉取、容器创建和 RDP 配置，全程无需手动敲命令，就能让 Windows 应用以独立窗口无缝呈现在 Linux 桌面。来自 [@moyelx](https://hellogithub.com/user/e8vnBGS9XmjYLho) 的分享
+38、[winboat](https://hellogithub.com/periodical/statistics/click?target=https://github.com/winboat-org/winboat)：在 Linux 系统上轻松运行 Windows 应用。这是一款无需复杂配置即可在 Linux 上运行 Windows 应用的工具。通过图形化向导自动完成镜像拉取、容器创建和 RDP 配置，全程无需手动敲命令，就能让 Windows 应用以独立窗口无缝呈现在 Linux 桌面。来自 [@moyelx](https://hellogithub.com/user/e8vnBGS9XmjYLho) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/114/960420129.png' style="max-width:80%; max-height=80%;"></img></p>
 

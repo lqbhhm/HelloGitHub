@@ -79,7 +79,7 @@ res->body;
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/32551735.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go
-11、[d2](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/terrastruct/d2)：Script Language for Converting Text to Charts. This project is a chart scripting language that can convert text into charts. You just need to describe the chart you want, and it will generate the corresponding image.
+11、[d2](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/d2lang/d2)：Script Language for Converting Text to Charts. This project is a chart scripting language that can convert text into charts. You just need to describe the chart you want, and it will generate the corresponding image.
 ```shell
 echo 'x -> y' > input.d2
 d2 -w input.d2 out.svg

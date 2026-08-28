@@ -192,7 +192,7 @@ umap.plot(mapper, labels=digits.target)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/206874323.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[rust-by-practice](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/sunface/rust-by-practice)：Practical Rust Language Exercises. This project provides a multitude of practical Rust exercises to help newcomers learn and get started with the Rust language. In addition to a vast collection of exercise problems and solutions, it also supports online editing and execution of Rust code.
+29、[rust-by-practice](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/origin-brain/rust-by-practice)：Practical Rust Language Exercises. This project provides a multitude of practical Rust exercises to help newcomers learn and get started with the Rust language. In addition to a vast collection of exercise problems and solutions, it also supports online editing and execution of Rust code.
 
 ### Swift
 30、[MacSymbolicator](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/inket/MacSymbolicator)：Tool for Symbolizing macOS/iOS Crash Reports. This is a simple Mac application that can convert hexadecimal addresses from macOS/iOS crash reports to functions and line numbers in the source code, assisting developers in analyzing the cause of application crashes and supporting crash and ips format crash reports.
