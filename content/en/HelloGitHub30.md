@@ -165,16 +165,10 @@ print(s)
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">          
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
-          <sub>超值的GPU云服务</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/?from=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
-          <sub>CDN</sub><br>
-          <sub>开启全网加速</sub>
+          <sub>聚合200+主流大模型</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">

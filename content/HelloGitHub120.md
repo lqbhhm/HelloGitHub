@@ -47,7 +47,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/400501136.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[RCLI](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RunanywhereAI/RCLI)：专为 macOS 打造的本地语音 AI 助手。这是一款针对苹果芯片优化的本地语音 AI 命令行工具，集成了语音识别、LLM、VLM 和语音合成功能，全流程本地推理不依赖云端服务，支持语音控制音乐播放、创建提醒、调节音量等操作，并可分析屏幕或图片内容。
+7、[wally](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RunanywhereAI/wally)：专为 macOS 打造的本地语音 AI 助手。这是一款针对苹果芯片优化的本地语音 AI 命令行工具，集成了语音识别、LLM、VLM 和语音合成功能，全流程本地推理不依赖云端服务，支持语音控制音乐播放、创建提醒、调节音量等操作，并可分析屏幕或图片内容。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1172340808.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -203,16 +203,10 @@
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">          
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
-          <sub>超值的GPU云服务</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/?from=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
-          <sub>CDN</sub><br>
-          <sub>开启全网加速</sub>
+          <sub>聚合200+主流大模型</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">

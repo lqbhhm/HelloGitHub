@@ -98,7 +98,7 @@ func main() {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/165092572.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java 项目
-7、[APIJSON](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Tencent/APIJSON)：快速开发 API 服务的框架。为简单的增删改查、复杂的查询、简单的事务操作提供了完全自动化的 API。大部分 HTTP 请求后端再也不用写接口了，也不用写文档了，适合中小型前后端分离的项目
+7、[APIJSON](https://hellogithub.com/periodical/statistics/click?target=https://github.com/APIJSON/APIJSON)：快速开发 API 服务的框架。为简单的增删改查、复杂的查询、简单的事务操作提供了完全自动化的 API。大部分 HTTP 请求后端再也不用写接口了，也不用写文档了，适合中小型前后端分离的项目
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/74359442.jpg' style="max-width:80%; max-height=80%;"></img></p>
@@ -283,16 +283,10 @@ doc.sentences[0].print_dependencies()
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">          
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
-          <sub>超值的GPU云服务</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/?from=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
-          <sub>CDN</sub><br>
-          <sub>开启全网加速</sub>
+          <sub>聚合200+主流大模型</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">

@@ -171,7 +171,7 @@ doc.save("generated_doc.docx")
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/118/1021895365.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[ml-sharp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/apple/ml-sharp)：不到一秒生成 3D 场景。该项目是 Apple 开源的单目视角合成技术的配套代码，能够在短时间内根据单张图片生成高质量的 3D 场景。它通过神经网络从单张照片中回归出 3D 高斯参数，输出可供 3DGS 渲染器使用的 ply 文件。
+34、[ml-sharp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/apple-aiml-research/ml-sharp)：不到一秒生成 3D 场景。该项目是 Apple 开源的单目视角合成技术的配套代码，能够在短时间内根据单张图片生成高质量的 3D 场景。它通过神经网络从单张照片中回归出 3D 高斯参数，输出可供 3DGS 渲染器使用的 ply 文件。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/118/1114899133.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -229,16 +229,10 @@ if slimmed_model:
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">          
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
-          <sub>超值的GPU云服务</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/?from=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
-          <sub>CDN</sub><br>
-          <sub>开启全网加速</sub>
+          <sub>聚合200+主流大模型</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">

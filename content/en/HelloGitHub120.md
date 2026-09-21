@@ -40,7 +40,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/400501136.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[RCLI](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/RunanywhereAI/RCLI)：Local Voice AI Assistant Tailored for macOS.This is a local voice AI command-line tool optimized for Apple Silicon, integrating speech recognition, LLM, VLM, and text-to-speech functions. It performs end-to-end local inference without relying on cloud services, supports voice control of music playback, creating reminders, adjusting volume, etc., and can analyze screen or image content.
+7、[wally](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/RunanywhereAI/wally)：Local Voice AI Assistant Tailored for macOS.This is a local voice AI command-line tool optimized for Apple Silicon, integrating speech recognition, LLM, VLM, and text-to-speech functions. It performs end-to-end local inference without relying on cloud services, supports voice control of music playback, creating reminders, adjusting volume, etc., and can analyze screen or image content.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1172340808.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -193,16 +193,10 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">          
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
-          <sub>超值的GPU云服务</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/?from=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
-          <sub>CDN</sub><br>
-          <sub>开启全网加速</sub>
+          <sub>聚合200+主流大模型</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">

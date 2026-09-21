@@ -101,7 +101,7 @@ writeFileSync('output.pdf', doc.build())
 ```
 
 ### Kotlin
-18、[komi-store](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/kurikomi-labs/komi-store)：Cross-Platform GitHub App Store.This is a cross-platform open-source app store client developed with Kotlin, which supports one-click discovery of popular open-source projects, downloading installation packages (such as APK, EXE, DMG, etc.), and tracking installed apps and prompting updates.Shared by [@Rainxch Zed](https://hellogithub.com/en/user/odJT8IizUEw3Gx0)
+18、[komi-store](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/komi-store/komi-store)：Cross-Platform GitHub App Store.This is a cross-platform open-source app store client developed with Kotlin, which supports one-click discovery of popular open-source projects, downloading installation packages (such as APK, EXE, DMG, etc.), and tracking installed apps and prompting updates.Shared by [@Rainxch Zed](https://hellogithub.com/en/user/odJT8IizUEw3Gx0)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/117/1101281251.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -241,16 +241,10 @@ print(f"Reason: {score.reason}")
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">          
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
-          <sub>超值的GPU云服务</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/?from=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
-          <sub>CDN</sub><br>
-          <sub>开启全网加速</sub>
+          <sub>聚合200+主流大模型</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">

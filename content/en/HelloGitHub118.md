@@ -164,7 +164,7 @@ doc.save("generated_doc.docx")
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/118/1021895365.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[ml-sharp](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/apple/ml-sharp)：Generate 3D Scenes in Less Than a Second.This project is the companion code for Apple's open-source monocular view synthesis technique, capable of generating high-quality 3D scenes from a single image in a short time. It regresses 3D Gaussian parameters from a single photo using a neural network and outputs a ply file for the 3DGS renderer.
+34、[ml-sharp](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/apple-aiml-research/ml-sharp)：Generate 3D Scenes in Less Than a Second.This project is the companion code for Apple's open-source monocular view synthesis technique, capable of generating high-quality 3D scenes from a single image in a short time. It regresses 3D Gaussian parameters from a single photo using a neural network and outputs a ply file for the 3DGS renderer.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/118/1114899133.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -219,16 +219,10 @@ if slimmed_model:
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">          
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
-          <sub>超值的GPU云服务</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/?from=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
-          <sub>CDN</sub><br>
-          <sub>开启全网加速</sub>
+          <sub>聚合200+主流大模型</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">

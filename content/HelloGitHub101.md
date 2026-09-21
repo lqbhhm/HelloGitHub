@@ -135,7 +135,7 @@ pres.writeFile();
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/52322425.png' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[reactive-resume](https://hellogithub.com/periodical/statistics/click?target=https://github.com/amruthpillai/reactive-resume)：免费开源的简历设计平台。这是一个免费、开源、无广告的在线简历制作平台，内置 12 款专业的简历模板，支持多语言、PDF 导出和 OpenAI 集成等功能。
+17、[reactive-resume](https://hellogithub.com/periodical/statistics/click?target=https://github.com/reactive-resume/reactive-resume)：免费开源的简历设计平台。这是一个免费、开源、无广告的在线简历制作平台，内置 12 款专业的简历模板，支持多语言、PDF 导出和 OpenAI 集成等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/249995750.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -331,16 +331,10 @@ print(response)
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">          
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
-          <sub>超值的GPU云服务</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/?from=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
-          <sub>CDN</sub><br>
-          <sub>开启全网加速</sub>
+          <sub>聚合200+主流大模型</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">

@@ -23,7 +23,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/789538509.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C#
-3、[FlyOOBE](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/builtbybel/FlyOOBE)：Windows 11 Upgrade Assistant. This is an open-source Windows 11 upgrade assistant tool. It can help users bypass hardware restrictions to install the latest version of Windows 11 on unsupported old devices.
+3、[Flyoobe](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/builtbybel/Flyoobe)：Windows 11 Upgrade Assistant. This is an open-source Windows 11 upgrade assistant tool. It can help users bypass hardware restrictions to install the latest version of Windows 11 on unsupported old devices.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/875403491.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -93,7 +93,7 @@ if num := v.Export().(int64); num != 4 {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/2688455.png' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[newsnow](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ourongxing/newsnow)：Fully Open-Source Real-Time News Platform. This is a high-aesthetic real-time news and hotlist website that focuses more on real-time news compared to traditional hotlist products. It is completely open-source for both frontend and backend, easy to deploy, and can be easily hosted on platforms like Cloudflare Pages or Vercel.Shared by [@Ou](https://hellogithub.com/en/user/SMJiFwlsKCkWf89)
+18、[newsnow](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/newsnext/newsnow)：Fully Open-Source Real-Time News Platform. This is a high-aesthetic real-time news and hotlist website that focuses more on real-time news compared to traditional hotlist products. It is completely open-source for both frontend and backend, easy to deploy, and can be easily hosted on platforms like Cloudflare Pages or Vercel.Shared by [@Ou](https://hellogithub.com/en/user/SMJiFwlsKCkWf89)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/861790708.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -222,16 +222,10 @@ if num := v.Export().(int64); num != 4 {
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">          
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
-          <sub>超值的GPU云服务</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/?from=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
-          <sub>CDN</sub><br>
-          <sub>开启全网加速</sub>
+          <sub>聚合200+主流大模型</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">

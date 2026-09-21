@@ -30,7 +30,7 @@
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/789538509.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C# 项目
-3、[FlyOOBE](https://hellogithub.com/periodical/statistics/click?target=https://github.com/builtbybel/FlyOOBE)：Windows 11 升级助手。这是一款开源的 Windows 11 升级辅助工具。它能够帮助用户绕过硬件限制，将 Windows 11 最新版本，安装到官方不支持的旧设备上。
+3、[Flyoobe](https://hellogithub.com/periodical/statistics/click?target=https://github.com/builtbybel/Flyoobe)：Windows 11 升级助手。这是一款开源的 Windows 11 升级辅助工具。它能够帮助用户绕过硬件限制，将 Windows 11 最新版本，安装到官方不支持的旧设备上。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/875403491.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -100,7 +100,7 @@ if num := v.Export().(int64); num != 4 {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/2688455.png' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[newsnow](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ourongxing/newsnow)：全开源的实时资讯平台。这是一款高颜值的实时新闻与热榜网站，相比传统热榜产品更加注重实时新闻。它前后端完全开源、部署简单，可轻松托管到 Cloudflare Pages 或 Vercel 等平台。来自 [@Ou](https://hellogithub.com/user/SMJiFwlsKCkWf89) 的分享
+18、[newsnow](https://hellogithub.com/periodical/statistics/click?target=https://github.com/newsnext/newsnow)：全开源的实时资讯平台。这是一款高颜值的实时新闻与热榜网站，相比传统热榜产品更加注重实时新闻。它前后端完全开源、部署简单，可轻松托管到 Cloudflare Pages 或 Vercel 等平台。来自 [@Ou](https://hellogithub.com/user/SMJiFwlsKCkWf89) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/861790708.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -232,16 +232,10 @@ if num := v.Export().(int64); num != 4 {
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">          
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
-          <sub>超值的GPU云服务</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/?from=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
-          <sub>CDN</sub><br>
-          <sub>开启全网加速</sub>
+          <sub>聚合200+主流大模型</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">

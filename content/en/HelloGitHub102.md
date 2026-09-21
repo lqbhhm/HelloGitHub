@@ -252,7 +252,7 @@ output = compiled_model({0: example.numpy()})
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/102/628600520.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[omakub](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/basecamp/omakub)：Elegant Ubuntu Configuration Plan. This project transforms a fresh Ubuntu 24.04 system into an aesthetically pleasing, fully-featured system ideal for web development. With a single command, you can have a configured GNOME desktop environment, window management tools, Alacritty terminal, Neovim and VSCode editors, and set Chrome as the default browser.
+38、[omakub](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/omacom/omakub)：Elegant Ubuntu Configuration Plan. This project transforms a fresh Ubuntu 24.04 system into an aesthetically pleasing, fully-featured system ideal for web development. With a single command, you can have a configured GNOME desktop environment, window management tools, Alacritty terminal, Neovim and VSCode editors, and set Chrome as the default browser.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/102/805916722.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -283,16 +283,10 @@ output = compiled_model({0: example.numpy()})
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">          
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
-          <sub>超值的GPU云服务</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/?from=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
-          <sub>CDN</sub><br>
-          <sub>开启全网加速</sub>
+          <sub>聚合200+主流大模型</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
