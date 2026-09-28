@@ -215,7 +215,7 @@ pyxel.run(update, draw)
 33、[prometheus-book](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/yunlzheng/prometheus-book)：《Prometheus 操作指南》，[在线阅读](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart/why-monitor)
 
 
-34、[the-craft-of-selfteaching](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/selfteaching/the-craft-of-selfteaching)：《自学是门手艺》一个编程入门者的自学心得。如今学习资源很多，对于初学者入门而言，最难的是如何自学，阅读本书打开编程自学大门吧
+34、[the-craft-of-selfteaching](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/xiaolai/the-craft-of-selfteaching)：《自学是门手艺》一个编程入门者的自学心得。如今学习资源很多，对于初学者入门而言，最难的是如何自学，阅读本书打开编程自学大门吧
 
 
 

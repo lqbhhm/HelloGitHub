@@ -222,7 +222,7 @@ cv2.imwrite("vis_image.jpg", vis_im)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/284364418.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[spotube](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/KRTirtho/spotube)：Open Source Spotify Client. This project is a Spotify client developed using Flutter, completely free and ad-free. It uses Spotify, JioSaavn, and YouTube as music sources, allowing users to freely download music without logging in, and supports both desktop and mobile devices.
+39、[spotube](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/team-spotube/spotube)：Open Source Spotify Client. This project is a Spotify client developed using Flutter, completely free and ad-free. It uses Spotify, JioSaavn, and YouTube as music sources, allowing users to freely download music without logging in, and supports both desktop and mobile devices.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/338719962.png' style="max-width:80%; max-height=80%;"></img></p>
 

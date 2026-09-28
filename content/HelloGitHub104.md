@@ -229,7 +229,7 @@ cv2.imwrite("vis_image.jpg", vis_im)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/284364418.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[spotube](https://hellogithub.com/periodical/statistics/click?target=https://github.com/KRTirtho/spotube)：开源的 Spotify 客户端。该项目是基于 Flutter 开发的 Spotify 客户端，完全免费且无广告。它使用 Spotify、JioSaavn 和 YouTube 作为音乐源，用户无需登录即可自由下载音乐，支持桌面和移动设备。
+39、[spotube](https://hellogithub.com/periodical/statistics/click?target=https://github.com/team-spotube/spotube)：开源的 Spotify 客户端。该项目是基于 Flutter 开发的 Spotify 客户端，完全免费且无广告。它使用 Spotify、JioSaavn 和 YouTube 作为音乐源，用户无需登录即可自由下载音乐，支持桌面和移动设备。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/338719962.png' style="max-width:80%; max-height=80%;"></img></p>
 

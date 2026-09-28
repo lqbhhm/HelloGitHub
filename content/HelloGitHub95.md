@@ -287,7 +287,7 @@ df.chat('Which are the 5 happiest countries?')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/693342566.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[wsl2-distro-manager](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bostrot/wsl2-distro-manager)：WSL 发行版图形管理工具。该项目是一个基于 Flutter 开发的 WSL 管理小工具，它提供了一个友好的图形化界面，让用户可以轻松配置、复制或转换 WSL 实例，免去了繁琐的命令操作。特别适合新手使用，不用再担心把 WSL 折腾坏了。来自 [@mtig](https://hellogithub.com/user/tuFM0egcAO3Gamo) 的分享
+40、[wslmanager](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bostrot/wslmanager)：WSL 发行版图形管理工具。该项目是一个基于 Flutter 开发的 WSL 管理小工具，它提供了一个友好的图形化界面，让用户可以轻松配置、复制或转换 WSL 实例，免去了繁琐的命令操作。特别适合新手使用，不用再担心把 WSL 折腾坏了。来自 [@mtig](https://hellogithub.com/user/tuFM0egcAO3Gamo) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/407645904.png' style="max-width:80%; max-height=80%;"></img></p>
 

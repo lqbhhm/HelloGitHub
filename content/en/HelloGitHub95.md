@@ -280,7 +280,7 @@ df.chat('Which are the 5 happiest countries?')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/693342566.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[wsl2-distro-manager](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/bostrot/wsl2-distro-manager)：WSL Distribution Graphic Management Tool. This project is a WSL management utility developed using Flutter, providing a friendly graphical interface that allows users to easily configure, copy, or transform WSL instances, sparing them the trouble of complex command operations. It is particularly suitable for beginners, eliminating the worry of breaking WSL.Shared by [@mtig](https://hellogithub.com/en/user/tuFM0egcAO3Gamo)
+40、[wslmanager](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/bostrot/wslmanager)：WSL Distribution Graphic Management Tool. This project is a WSL management utility developed using Flutter, providing a friendly graphical interface that allows users to easily configure, copy, or transform WSL instances, sparing them the trouble of complex command operations. It is particularly suitable for beginners, eliminating the worry of breaking WSL.Shared by [@mtig](https://hellogithub.com/en/user/tuFM0egcAO3Gamo)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/407645904.png' style="max-width:80%; max-height=80%;"></img></p>
 

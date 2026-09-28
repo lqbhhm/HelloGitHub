@@ -103,7 +103,7 @@ $ nali 1.2.3.4
 ```
 
 
-11、[revive](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mgechev/revive)：快速且易扩展的 Go 代码检查工具。它比 golint 更快、更灵活，深受广大 Go 开发者的喜爱
+11、[revive](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/revive-lint/revive)：快速且易扩展的 Go 代码检查工具。它比 golint 更快、更灵活，深受广大 Go 开发者的喜爱
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/96237042.gif' style="max-width:80%; max-height=80%;"></img></p>
