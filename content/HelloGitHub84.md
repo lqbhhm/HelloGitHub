@@ -159,9 +159,7 @@ func main() {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/382496361.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### PHP 项目
-22、[dujiaoka](https://hellogithub.com/periodical/statistics/click?target=https://github.com/assimon/dujiaoka)：PHP 写的开源自动售货系统。采用 Laravel+Bootstrap 实现的自动售卖虚拟产品的平台，比如兑换码、账号之类的数字商品，顾客付款后可以自动发货，已集成微信、支付宝、Paypal 等多种支付方式。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/129852395.png' style="max-width:80%; max-height=80%;"></img></p>
+22、[dujiao-next](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dujiao-next/dujiao-next)：PHP 写的开源自动售货系统。采用 Laravel+Bootstrap 实现的自动售卖虚拟产品的平台，比如兑换码、账号之类的数字商品，顾客付款后可以自动发货，已集成微信、支付宝、Paypal 等多种支付方式。
 
 ### Python 项目
 23、[bar_chart_race](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dexplo/bar_chart_race)：基于 Python 的动态条形图。通过该项目可以用 Python 创建条形图比赛动画，显示数据排名的动态条形图，直观地展示数据变化过程。来自 [@databook](https://hellogithub.com/user/1qC4w2Ey6bu0fgR) 的分享
@@ -286,7 +284,7 @@ john = table.find_one(name='John Doe')
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">          
+        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>聚合200+主流大模型</sub>
@@ -294,16 +292,9 @@ john = table.find_one(name='John Doe')
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/OpenIMSDK/Open-IM-Server">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/im.png" width="60px"><br>
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/im.jpg" width="60px"><br>
           <sub>OpenIM</sub><br>
           <sub>开源IM力争No.1</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.qiniu.com/products/ai-token-api?utm_source=hello">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/qiniu.jpg" width="60px"><br>
-          <sub>七牛云</sub><br>
-          <sub>百万 Token 免费体验</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
@@ -311,6 +302,20 @@ john = table.find_one(name='John Doe')
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/0foxai.png" width="60px"><br>
           <sub>OfoxAI</sub><br>
           <sub>100+ 模型官方直连不掉线</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://serpapi.com/hello-github">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/serpapi.png" alt="SerpApi" width="60px"><br>
+          <sub>SerpApi</sub><br>
+          <sub>AI Agent 实时搜索数据 API</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/rustfs/rustfs">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/rustfs.png" alt="RustFS" width="60px"><br>
+          <sub>RustFS</sub><br>
+          <sub>高性能 S3 兼容对象存储</sub>
         </a>
       </th>
     </tr>

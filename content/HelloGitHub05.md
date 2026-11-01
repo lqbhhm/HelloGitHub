@@ -115,7 +115,7 @@ $pinyin->convert('带着希望去旅行，比到达终点更美好', PINYIN_ASCI
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">          
+        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>聚合200+主流大模型</sub>
@@ -123,16 +123,9 @@ $pinyin->convert('带着希望去旅行，比到达终点更美好', PINYIN_ASCI
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/OpenIMSDK/Open-IM-Server">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/im.png" width="60px"><br>
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/im.jpg" width="60px"><br>
           <sub>OpenIM</sub><br>
           <sub>开源IM力争No.1</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.qiniu.com/products/ai-token-api?utm_source=hello">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/qiniu.jpg" width="60px"><br>
-          <sub>七牛云</sub><br>
-          <sub>百万 Token 免费体验</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
@@ -140,6 +133,20 @@ $pinyin->convert('带着希望去旅行，比到达终点更美好', PINYIN_ASCI
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/0foxai.png" width="60px"><br>
           <sub>OfoxAI</sub><br>
           <sub>100+ 模型官方直连不掉线</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://serpapi.com/hello-github">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/serpapi.png" alt="SerpApi" width="60px"><br>
+          <sub>SerpApi</sub><br>
+          <sub>AI Agent 实时搜索数据 API</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/rustfs/rustfs">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/rustfs.png" alt="RustFS" width="60px"><br>
+          <sub>RustFS</sub><br>
+          <sub>高性能 S3 兼容对象存储</sub>
         </a>
       </th>
     </tr>
